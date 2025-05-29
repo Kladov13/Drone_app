@@ -12,7 +12,7 @@ Drone Control Web Application
 
 Клонируйте репозиторий:
 
-git clone https://github.com/Kladov13/Diplom.git
+git clone https://github.com/Kladov13/Drone_app.git
 
 Запустите сервер:
 
